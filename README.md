@@ -74,7 +74,5 @@ I welcome contributions and feedback from the community. If you have suggestions
 
 Enjoy your chatbot interactions!
 
-* ### Hit a Star if you like this project
-
 
 
